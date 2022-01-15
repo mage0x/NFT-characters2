@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe7Cd0F4C78e257607AEe984baD3db63543d0ee00",
+  "SCAN_LINK": "https://testnet.bscscan.com/token/0xe7Cd0F4C78e257607AEe984baD3db63543d0ee00",
+  "NETWORK": {
+    "NAME": "BSC Testnet",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "NFT-Characters",
+  "SYMBOL": "NFTC",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
